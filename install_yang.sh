@@ -1,0 +1,11 @@
+sudo sysrepoctl -i O-RAN/o-ran-wg4-features.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-certificates.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-fan.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-fm.yang -v3
+#sudo sysrepoctl -i O-RAN/o-ran-hardware.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-ves-subscribed-notifications.yang -v3
+sudo sysrepoctl -i Others/iana-hardware.yang -v3
+sudo sysrepoctl -i Others/ietf-hardware.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-hardware.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-usermgmt.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-supervision.yang -v3
