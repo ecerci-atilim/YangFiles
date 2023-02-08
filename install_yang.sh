@@ -9,3 +9,6 @@ sudo sysrepoctl -i Others/ietf-hardware.yang -v3
 sudo sysrepoctl -i O-RAN/o-ran-hardware.yang -v3
 sudo sysrepoctl -i O-RAN/o-ran-usermgmt.yang -v3
 sudo sysrepoctl -i O-RAN/o-ran-supervision.yang -v3
+sudo sysrepoctl -i Others/iana-if-type.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-interfaces.yang -v3
+sudo sysrepoctl -i O-RAN/o-ran-sync.yang -v3
